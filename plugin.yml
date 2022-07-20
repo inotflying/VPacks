@@ -6,11 +6,3 @@ api:
 
 src-namespace-prefix: vezdehod\packs
 main: vezdehod\packs\VPacksMain
-
-commands:
-  test:
-    description:
-    permission: ok.use
-permissions:
-  ok.use:
-    default: true
